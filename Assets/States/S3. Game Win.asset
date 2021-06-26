@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 853378a6ab6983a4ab1b23dce2e0a1e6, type: 3}
+  m_Name: S3. Game Win
+  m_EditorClassIdentifier: 
+  storyText: 'You''ve successfully boarded the aircraft!
+
+
+    Your adventure is
+    complete with your goal achieved. But there might have been other ways that resulted
+    in different outcomes. Feeling curious and want to try your luck again?
+
+
+    Press
+    1 to restart your adventure'
+  nextStates:
+  - {fileID: 11400000, guid: dd7a788cb8668fd4da84903acba3456c, type: 2}
